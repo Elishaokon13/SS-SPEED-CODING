@@ -1,2 +1,4 @@
 # SS-SPEED-CODING
 A REPO HOLDING MY CODES AS I LEARN
+
+Elisha Okon - koding tutor  
